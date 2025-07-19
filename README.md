@@ -42,8 +42,7 @@ A simple real-time face detection app using OpenCV in Python with mirror (selfie
 
 ## Screenshot
 
-*Add your screenshot here!*
-
+you will find the screenshots in the file Face_recognition_Test
 ## Credits
 
 - Developed by [Safwan alimam]
@@ -54,8 +53,3 @@ A simple real-time face detection app using OpenCV in Python with mirror (selfie
 **Description for GitHub:**  
 > Real-time face detection using OpenCV and Python. Detects faces from webcam with a mirror effect. Simple, fast, and easy for beginners!
 
----
-
-أي نقطة تريد تضيفها أو تعدلها خبرني!  
-لو حاب أضيف طريقة تشغيل مع conda أو بلغة عربية بالكامل كمان ممكن.  
-بالتوفيق في أول مشروع على GitHub! 🚀
